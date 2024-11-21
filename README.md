@@ -1,5 +1,3 @@
----
-
 # JSON Formatter
 
 A simple CLI tool to format JSON input into a pretty-printed output.
@@ -95,5 +93,3 @@ Invalid JSON
   ```bash
   echo '{"key":"value"}' | npx ts-node src/index.ts
   ```
-
----
