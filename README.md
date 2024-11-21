@@ -16,7 +16,7 @@ A simple CLI tool to format JSON input into a pretty-printed output.
 
 1. Clone this repository or create a new project:
    ```bash
-   git clone [<repository-url>](https://github.com/Itsuki54/json-formatter.git)
+   git clone https://github.com/Itsuki54/json-formatter.git
    cd json-formatter
    ```
 
